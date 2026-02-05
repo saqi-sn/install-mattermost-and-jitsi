@@ -40,7 +40,7 @@ This script enables rapid deployment of self-hosted communication infrastructure
 sudo apt update && sudo apt upgrade -y
 
 # Download the script
-wget https://your-repo-url/install-mattermost-jitsi.sh
+wget https://github.com/saqi-sn/install-mattermost-and-jitsi/blob/main/install-mattermost-jitsi.sh
 # Or upload the script to your server
 
 # Make it executable
