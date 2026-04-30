@@ -3,7 +3,7 @@
 ################################################################################
 # Mattermost + Jitsi Installation Script for Ubuntu (Iranian Mirrors)
 # Supports Ubuntu 20.04, 22.04, 24.04 LTS
-# Author: Auto-generated Setup Script
+# Author: Ali Sahafi
 # Version: 1.0
 ################################################################################
 
